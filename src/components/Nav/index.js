@@ -1,7 +1,7 @@
-function App() {
+function Nav() {
     return (
-      <div className="App">
-        <header className="App-header">
+      <div className="nav">
+        <header className="nav-header">
           <nav>
             <h2>Calculardora React</h2>
           </nav>
@@ -10,5 +10,5 @@ function App() {
     );
   }
   
-  export default App;
+  export default Nav;
   
